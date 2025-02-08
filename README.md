@@ -1,4 +1,4 @@
-# R-Language
+# X-Language
 
 This Language is underdevelopment
 only Lexer is ready
